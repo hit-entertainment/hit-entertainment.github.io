@@ -353,6 +353,3 @@ w.eval(d);c=s_d(c);i=c.indexOf("function s_c(");w.eval(c.substring(0,i
 );else a=parseFloat(v);if(a>=5&&v.indexOf('Opera')<0&&u.indexOf(
 'Opera')<0){eval(c);return new s_c(un,pg,ss)}else s=s_c2f(c);return s(
 un,pg,ss)}s_gi()
-
-
-}
